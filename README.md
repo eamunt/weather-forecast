@@ -1,4 +1,4 @@
-# NienLuanNganh
+# LSTM (Long short-term memory)
 
 1960-2010
 
