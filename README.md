@@ -1,4 +1,5 @@
 # LSTM (Long short-term memory)
+a type of RNN 
 
 1960-2010
 
